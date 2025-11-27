@@ -1,2 +1,2 @@
 # HTML-Table
-A college assignment of making a "BCA 2nd semester routine" basic table format done using HTML.
+A college assignment for creating a “BCA 2nd Semester Routine” in a basic table format using HTML.
